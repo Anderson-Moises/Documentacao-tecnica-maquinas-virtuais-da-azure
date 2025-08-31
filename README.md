@@ -1,5 +1,5 @@
 # Documentacao-tecnica-maquinas-virtuais-da-azure
-Laboratório Benefícios da Nuvem da trilha na DIO
+Laboratório Benefícios da Nuvem na trilha da DIO
 
 # 🚀 Projeto: Máquinas Virtuais na Azure
 
